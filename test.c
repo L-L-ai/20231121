@@ -5,6 +5,7 @@ int main(void){
 	printf("shush\n");
 
 	sleep(1);
+	printf("你好");
 	return 0;
 }
 
