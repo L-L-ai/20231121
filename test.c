@@ -1,8 +1,10 @@
 #include<stdio.h>
 
 int main(void){
-	printf("test.../n");
+	printf("hahhahahaha/n");
+	printf("shush\n");
 
+	sleep(1);
 	return 0;
 }
 
